@@ -9,6 +9,7 @@ This report explains the method used to solve the Collaboration and Competition 
 * The implementations are mainly referring to this [code](https://github.com/udacity/deep-reinforcement-learning/tree/master/ddpg-pendulum)
 * The architectures of _Actor_ is shown in the following figure.
 <img src="media/actor.png" width="600"/>
+
 * The architectures of _Critic_ is shown in the following figure.
 <img src="media/critic.png" width="500"/>
 
