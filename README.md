@@ -14,7 +14,7 @@
 ### Task requirements
 * Code must be written in Python 3
 * PyTorch must be used
-* Agent must be able to get average score of 13 from 100 consecutive episodes
+* Agent must be able to get average score of 0.5 from 100 consecutive episodes
 
 ## Getting Started
 1. Clone the DRLND Repository https://github.com/udacity/deep-reinforcement-learning/#dependencies
