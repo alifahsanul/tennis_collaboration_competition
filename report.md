@@ -1,5 +1,5 @@
 # Report of Assignment
-This report explains the method used to solve the Continuous Control Project and the result.
+This report explains the method used to solve the Collaboration and Competition Project and the result.
 
 <img src = "media/agent1_speed_frame.gif" width="700">
 
@@ -8,10 +8,8 @@ This report explains the method used to solve the Continuous Control Project and
 * To solve this reinforcement learning problem, [Deep Deterministic Policy Gradient](https://arxiv.org/pdf/1509.02971.pdf) is used.
 * The implementations are mainly referring to this [code](https://github.com/udacity/deep-reinforcement-learning/tree/master/ddpg-pendulum)
 * The architectures of _Actor_ is shown in the following figure.
-<img src="https://raw.githubusercontent.com/alifahsanul/banana_navigation/master/image/nn.jpg" alt="drawing" width="500"/>
 <img src="media/actor.png" width="600"/>
 * The architectures of _Critic_ is shown in the following figure.
-<img src="https://raw.githubusercontent.com/alifahsanul/banana_navigation/master/image/nn.jpg" alt="drawing" width="500"/>
 <img src="media/critic.png" width="500"/>
 
 * Hyperparameters:
