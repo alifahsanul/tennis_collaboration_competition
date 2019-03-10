@@ -7,10 +7,8 @@ This report explains the method used to solve the Collaboration and Competition 
 * The goal is for both agents to play the ball as long as possible.
 * To solve this reinforcement learning problem, [Deep Deterministic Policy Gradient](https://arxiv.org/pdf/1509.02971.pdf) is used.
 * The implementations are mainly referring to this [code](https://github.com/udacity/deep-reinforcement-learning/tree/master/ddpg-pendulum)
-* The architectures of _Actor_ is shown in the following figure.
-<img src="media/actor.png" width="600"/>
-* The architectures of _Critic_ is shown in the following figure.
-<img src="media/critic.png" width="500"/>
+* The architectures of _Actor_ is shown in the following figure. <br> <img src="media/actor.png" width="600"/>
+* The architectures of _Critic_ is shown in the following figure.<br> <img src="media/critic.png" width="500"/>
 
 * Hyperparameters:
   * Batch size: 128
